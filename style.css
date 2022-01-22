@@ -1,0 +1,34 @@
+body {
+ text-align: center;  
+}
+h1 {
+font font-size: 40px;    
+font-family: monospace;    
+font-weight: 300px;  
+    
+}   
+#apps {
+width: 100%;   
+height: 800px;    
+background-color: coral;   
+} 
+#games {
+ width: 100%;   
+height: 800px;    
+background-color: cyan;  
+} 
+img {
+ transition:transform.2s;      
+} 
+
+img: hovor{
+ transform: scale(0.9);
+} 
+.line{
+ height: 6px;   
+background-color: #000;    
+width: 70px;  
+ margin: 8px auto;
+}
+    
+    
